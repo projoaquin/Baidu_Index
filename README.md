@@ -1,6 +1,10 @@
-# 使用说明
+## 仓库地址
 
-## 运行
+https://github.com/projoaquin/Baidu_Index.git
+
+## 使用说明
+
+### 运行
 
 ​	python main.py
 
@@ -10,7 +14,7 @@
 
 ​	查询的地区（循环输入，输入q退出）
 
-## tool/
+### tool/
 
 ​	countryMap.py 存放url内area参数和全国各地区的映射关系，以及省份和省内市的对应关系	
 
