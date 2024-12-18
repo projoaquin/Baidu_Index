@@ -1,7 +1,8 @@
 import pandas as pd
 
+## 输出文件内容
 # 指定文件路径
-file_path = ""
+file_path = input("输入文件名路径")
 
 # 读取 Excel 文件
 try:
